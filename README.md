@@ -1,4 +1,4 @@
-# CS-255 Portfolio
+# CS-255 Portfolio April Nixon (CS-255-H2975)
 
 # - Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 A: The DriverPass project involved designing a system for a client named Liam, the owner of DriverPass. The objective was to create a comprehensive system that facilitates better driver training. This system was intended to offer online classes, practice tests, and on-the-road training to help students prepare for DMV driving tests. Key features included the ability to make reservations for driving lessons, manage different user roles and permissions, track user activity, handle customer registrations, and provide updated content in line with DMV requirements. The system was expected to be accessible online and offline, with a focus on user-friendly interfaces and secure data management.
